@@ -1,0 +1,21 @@
+.divShow{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 4.5rem;
+   
+    border-radius: 18px;
+    padding:  0px 18px 0px 0px;
+    box-shadow: var(--boxShadow);
+    
+}
+.divShow img{
+    transform: scale(0.3);
+
+}
+.divShow span {
+    font-family: sans-serif;
+    font-size: 16px;
+   
+}
